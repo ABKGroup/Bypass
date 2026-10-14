@@ -1,0 +1,61 @@
+{
+  "all_features": [
+    "coord_x1",
+    "coord_y1",
+    "coord_x2",
+    "coord_y2",
+    "total_vias",
+    "via_density",
+    "net_total_len",
+    "net_total_vias",
+    "len_metal2",
+    "len_metal3",
+    "len_metal4",
+    "len_metal5",
+    "len_metal6",
+    "len_metal7",
+    "len_metal8",
+    "len_metal9",
+    "len_metal10",
+    "sum_layer_len",
+    "dx_um",
+    "dy_um",
+    "manhattan_um"
+  ],
+  "topo_features": [
+    "coord_x1",
+    "coord_y1",
+    "coord_x2",
+    "coord_y2",
+    "total_vias",
+    "via_density",
+    "net_total_len",
+    "net_total_vias"
+  ],
+  "geom_features": [
+    "len_metal2",
+    "len_metal3",
+    "len_metal4",
+    "len_metal5",
+    "len_metal6",
+    "len_metal7",
+    "len_metal8",
+    "len_metal9",
+    "len_metal10",
+    "sum_layer_len",
+    "dx_um",
+    "dy_um",
+    "manhattan_um"
+  ],
+  "len_cols": [
+    "len_metal2",
+    "len_metal3",
+    "len_metal4",
+    "len_metal5",
+    "len_metal6",
+    "len_metal7",
+    "len_metal8",
+    "len_metal9",
+    "len_metal10"
+  ]
+}

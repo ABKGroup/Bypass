@@ -1,0 +1,42 @@
+# This script was written and developed by ABKGroup students at UCSD VLSI CAD Lab. However, the underlying commands and reports are copyrighted by Cadence.
+# We thank Cadence for granting permission to share our research to help promote and foster the next generation of innovators.
+
+set rtl_all {
+ ibex_alu.v
+ ibex_branch_predict.v
+ ibex_compressed_decoder.v
+ ibex_controller.v
+ ibex_core.v
+ ibex_counter.v
+ ibex_cs_registers.v
+ ibex_csr.v
+ ibex_decoder.v
+ ibex_dummy_instr.v
+ ibex_ex_block.v
+ ibex_fetch_fifo.v
+ ibex_icache.v
+ ibex_id_stage.v
+ ibex_if_stage.v
+ ibex_load_store_unit.v
+ ibex_multdiv_fast.v
+ ibex_multdiv_slow.v
+ ibex_pmp.v
+ ibex_prefetch_buffer.v
+ ibex_register_file_ff.v
+ ibex_register_file_fpga.v
+ ibex_register_file_latch.v
+ ibex_wb_stage.v
+ prim_badbit_ram_1p.v
+ prim_clock_gating.v
+ prim_generic_clock_gating.v
+ prim_generic_ram_1p.v
+ prim_lfsr.v
+ prim_ram_1p.v
+ prim_secded_28_22_dec.v
+ prim_secded_28_22_enc.v
+ prim_secded_39_32_dec.v
+ prim_secded_39_32_enc.v
+ prim_secded_72_64_dec.v
+ prim_secded_72_64_enc.v
+ prim_xilinx_clock_gating.v
+}

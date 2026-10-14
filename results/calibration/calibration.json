@@ -1,0 +1,1 @@
+{"model": "log-ratio regression", "cols": ["const", "lwl", "lvpu", "up_share", "mid_share", "lnseg"], "beta": [-0.019034132394242897, 0.024762892160246137, -0.008090758606801219, 0.043437815175505205, 0.008398708894548019, -0.012843669513209682], "clip": [0.5, 2.0], "fit_on": "validation runs only", "nets": 165000}

@@ -1,0 +1,17 @@
+split,design,weighted_bias_raw_pct,weighted_bias_calibrated_pct,WMAPE_raw_pct,WMAPE_calibrated_pct
+test,aes_cipher_0.6_0.4_1.0,-8.016,-3.213,10.556,9.144
+test,aes_cipher_0.75_0.4_1.0,-7.114,-2.04,10.25,9.197000000000001
+test,aes_cipher_0.9_0.4_1.0,-8.228,-2.952,10.787,9.279
+test,aes_cipher_3_0.92_1.2,-14.056,-10.581,15.044,12.62
+test,ldpc_1.0_0.3_1.0,-22.631999999999998,-15.004000000000001,24.395,19.403
+test,ldpc_1.6_0.4_1.0,-22.513,-15.294,23.430999999999997,17.234
+test,mpeg2_1.0_0.6_1.0,-8.241,-2.059,11.915999999999999,9.508
+test,swerv_1.0_0.70_1.0,-12.92,-5.992000000000001,18.618,14.898
+test,tate_1.0_0.6_1.0,-16.168,-10.912,18.035,13.798
+test,vga_1.0_0.6_1.0,-14.2,-7.966,16.430999999999997,12.102
+validation_leave_one_run_out,aes_cipher_top_10_0.7_1.2,-4.94,-1.34,7.875,7.027
+validation_leave_one_run_out,ibex_core_10_0.7_1.2,-3.176,1.124,7.73,6.785
+validation_leave_one_run_out,jpeg_encoder_10_0.7_1.2,0.7759999999999999,4.129,8.44,8.357000000000001
+validation_leave_one_run_out,aes_cipher_top_0.65_0.6_1.0,-6.002999999999999,-1.111,8.459,7.529
+validation_leave_one_run_out,ibex_core_1.0_0.6_1.0,-6.506,-2.0469999999999997,9.718,7.596
+validation_leave_one_run_out,jpeg_encoder_0.65_0.6_1.0,-1.146,2.2230000000000003,7.9910000000000005,8.052

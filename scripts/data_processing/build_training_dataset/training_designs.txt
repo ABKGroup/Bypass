@@ -1,0 +1,46 @@
+# (higher TCP 5/10/15, AR 1.0/1.2) : 24 #
+aes_cipher_top_5_0.4_1.0
+aes_cipher_top_5_0.4_1.2
+aes_cipher_top_10_0.4_1.0
+aes_cipher_top_10_0.4_1.2
+aes_cipher_top_10_0.7_1.2
+aes_cipher_top_15_0.4_1.2
+aes_cipher_top_15_0.8_1.2
+ibex_core_5_0.4_1.0
+ibex_core_5_0.4_1.2
+ibex_core_10_0.4_1.0
+ibex_core_10_0.4_1.2
+ibex_core_10_0.7_1.2
+ibex_core_10_0.8_1.2
+ibex_core_15_0.4_1.2
+ibex_core_15_0.7_1.2
+jpeg_encoder_5_0.4_1.0
+jpeg_encoder_5_0.4_1.2
+jpeg_encoder_10_0.4_1.0
+jpeg_encoder_10_0.4_1.2
+jpeg_encoder_10_0.7_1.2
+jpeg_encoder_10_0.8_1.2
+jpeg_encoder_15_0.4_1.2
+jpeg_encoder_15_0.7_1.2
+
+# (low TCP 0.5-1.2 cluster, AR 1.0) : 12 #
+aes_cipher_top_0.5_0.4_1.0
+aes_cipher_top_0.65_0.4_1.0
+aes_cipher_top_0.65_0.6_1.0
+aes_cipher_top_0.8_0.4_1.0
+ibex_core_0.8_0.4_1.0
+ibex_core_1.0_0.4_1.0
+ibex_core_1.0_0.6_1.0
+ibex_core_1.2_0.6_1.0
+jpeg_encoder_0.5_0.4_1.0
+jpeg_encoder_0.65_0.4_1.0
+jpeg_encoder_0.65_0.6_1.0
+jpeg_encoder_0.8_0.4_1.0
+
+# (low TCP + routing blockages, AR 1.0) : 6 #
+aes_cipher_top_0.8_0.4_1.0-blockages
+aes_cipher_top_0.65_0.6_1.0-blockages
+ibex_core_1.0_0.4_1.0-blockages
+ibex_core_1.2_0.6_1.0-blockages
+jpeg_encoder_0.8_0.4_1.0-blockages
+jpeg_encoder_0.5_0.6_1.0-blockages
